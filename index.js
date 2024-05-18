@@ -58,4 +58,4 @@ app.get("/user/app/:id" , (req , res) =>{
     //   });
 });
 
-app.listen(6060 , ()=> console.log("ha bhai"));
+app.listen(6060 , ()=> console.log("preyrsh dhar diwan"));
